@@ -68,3 +68,10 @@ layout: default
 
 　　希望这份指南能帮你扫清迷雾。在德国联网这件事，本质上就是一次信息和选择的博弈，准备好了，就没什么难的。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Germany eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/germany-data-plans)
